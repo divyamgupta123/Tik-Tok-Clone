@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tik Tok Clone</string>
+    <string name="video_already_liked">Video Already Liked</string>
+    <string name="no_liked_videos">No Liked Videos</string>
+    <string name="content_description">Image Description</string>
+    <string name="liked">Liked</string>
+</resources>

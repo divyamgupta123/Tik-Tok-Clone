@@ -1,0 +1,2 @@
+rootProject.name = "TikTok Clone"
+include ':app'
